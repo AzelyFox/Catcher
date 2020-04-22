@@ -91,3 +91,4 @@ lint/tmp/
 *.iml
 out
 gen
+Android/gradle
