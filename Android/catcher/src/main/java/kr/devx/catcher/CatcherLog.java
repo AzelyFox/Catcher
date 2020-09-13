@@ -1,6 +1,6 @@
 package kr.devx.catcher;
 
-public class Log {
+public class CatcherLog {
     private final String TAG;
     private final String USER;
     private final int LEVEL;
@@ -34,12 +34,12 @@ public class Log {
             return this;
         }
 
-        public Log build() {
-            return new Log(this);
+        public CatcherLog build() {
+            return new CatcherLog(this);
         }
     }
 
-    private Log(Builder builder) {
+    private CatcherLog(Builder builder) {
         TAG = builder.TAG;
         USER = builder.USER;
         LEVEL = builder.LEVEL;
