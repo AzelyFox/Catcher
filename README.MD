@@ -7,12 +7,12 @@
         <img src="https://img.shields.io/badge/DEVX-catcher-black?style=flat-square" />
     </a>
     <a href="#license">
-        <img src="https://img.shields.io/github/license/LIMECAKE/Catcher?style=flat-square" />
+        <img src="https://img.shields.io/github/license/AzelyFox/Catcher?style=flat-square" />
     </a>
-    <a href="https://github.com/LIMECAKE/Catcher/releases">
-        <img src="https://img.shields.io/github/v/release/LIMECAKE/Catcher?style=flat-square" />
+    <a href="https://github.com/AzelyFox/Catcher/releases">
+        <img src="https://img.shields.io/github/v/release/AzelyFox/Catcher?style=flat-square" />
     </a>
-    <a href="https://github.com/LIMECAKE/Catcher/issues">
+    <a href="https://github.com/AzelyFox/Catcher/issues">
         <img src="https://img.shields.io/badge/SUPPORT-LIVE-green?style=flat-square" />
     </a>
 </p>
